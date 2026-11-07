@@ -1,0 +1,44 @@
+{
+  "name": "LATAM",
+  "description": "Maior companhia aérea do Brasil (LATAM Airlines Brasil, grupo LATAM).",
+  "customDescription": {
+    "pt-BR": "Maior companhia aérea do Brasil (LATAM Airlines Brasil, grupo LATAM).",
+    "en": "Brazil's largest airline (LATAM Airlines Brasil, LATAM group)."
+  },
+  "logoPath": "LATAM.png",
+  "invLogoPath": "LATAM_INV.png",
+  "businessType": 4,
+  "businessClass": 3,
+  "CEOName": "Jerome Cadier",
+  "flightPrefix": "LA",
+  "countryCode": "BR",
+  "fleet": [
+    "A319",
+    "A320",
+    "A321",
+    "B777300ER",
+    "B7879",
+    "E195"
+  ],
+  "fleetCount": [
+    19,
+    87,
+    41,
+    10,
+    4,
+    2
+  ],
+  "isCustom": true,
+  "backgroundColor": {
+    "r": 42,
+    "g": 0,
+    "b": 136,
+    "a": 210
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

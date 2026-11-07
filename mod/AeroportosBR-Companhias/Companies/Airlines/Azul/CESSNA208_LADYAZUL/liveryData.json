@@ -1,0 +1,62 @@
+{
+  "aircraftType": "CESSNA208",
+  "liveryFileName": "CESSNA208_AZUL_LADYAZUL.png",
+  "pixelSize": 250,
+  "isSpecial": true,
+  "liveryComponent": [
+    {
+      "name": "Fuselag1",
+      "layerOrder": 1,
+      "slicePosition": {
+        "x": 0,
+        "y": 293
+      },
+      "sliceSize": {
+        "x": 2655,
+        "y": 356
+      },
+      "position": {
+        "x": 0.01,
+        "y": -0.01,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 90
+    },
+    {
+      "name": "Fuselag2",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 0,
+        "y": 0
+      },
+      "sliceSize": {
+        "x": 1322,
+        "y": 293
+      },
+      "position": {
+        "x": 0.01,
+        "y": -4.18,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0
+    }
+  ]
+}

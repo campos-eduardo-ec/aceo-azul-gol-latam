@@ -1,0 +1,70 @@
+{
+  "aircraftType": "A321",
+  "liveryFileName": "A321_LATAM.png",
+  "pixelSize": 150,
+  "liveryComponent": [
+    {
+      "name": "Fuselage",
+      "layerOrder": 2,
+      "slicePosition": {
+        "x": 0,
+        "y": 6
+      },
+      "sliceSize": {
+        "x": 4753,
+        "y": 432
+      },
+      "position": {
+        "x": -1.41,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Engine1",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 4,
+        "y": 461
+      },
+      "sliceSize": {
+        "x": 482,
+        "y": 217
+      },
+      "position": {
+        "x": 1.63,
+        "y": -4.346,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Engine2",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 504,
+        "y": 463
+      },
+      "sliceSize": {
+        "x": 482,
+        "y": 217
+      },
+      "position": {
+        "x": 1.63,
+        "y": 4.346,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0
+    }
+  ],
+  "isSpecial": false
+}

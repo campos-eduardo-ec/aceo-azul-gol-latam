@@ -1,0 +1,88 @@
+{
+  "aircraftType": "B777300ER",
+  "liveryFileName": "B777300ER_LATAM.png",
+  "pixelSize": 150,
+  "liveryComponent": [
+    {
+      "name": "Fuselage1",
+      "layerOrder": 4,
+      "slicePosition": {
+        "x": 23,
+        "y": 690
+      },
+      "sliceSize": {
+        "x": 4044,
+        "y": 674
+      },
+      "position": {
+        "x": 14,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Fuselage2",
+      "layerOrder": 3,
+      "slicePosition": {
+        "x": 34,
+        "y": 2
+      },
+      "sliceSize": {
+        "x": 3943,
+        "y": 674
+      },
+      "position": {
+        "x": -12.31,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Engine1",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 11,
+        "y": 1407
+      },
+      "sliceSize": {
+        "x": 908,
+        "y": 462
+      },
+      "position": {
+        "x": 6.03,
+        "y": 6.73,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Engine2",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 11,
+        "y": 1407
+      },
+      "sliceSize": {
+        "x": 908,
+        "y": 462
+      },
+      "position": {
+        "x": 6.03,
+        "y": -6.73,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": 0
+    }
+  ],
+  "isSpecial": false
+}

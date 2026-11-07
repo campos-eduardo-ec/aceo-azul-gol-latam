@@ -1,0 +1,46 @@
+{
+  "name": "Azul",
+  "description": "Azul Linhas Aéreas Brasileiras, a companhia que mais cidades atende no Brasil.",
+  "customDescription": {
+    "pt-BR": "Azul Linhas Aéreas Brasileiras, a companhia que mais cidades atende no Brasil.",
+    "en": "Azul Brazilian Airlines, serving more Brazilian cities than any other airline."
+  },
+  "logoPath": "Azul.png",
+  "invLogoPath": "Azul_INV.png",
+  "businessType": 4,
+  "businessClass": 2,
+  "CEOName": "John Rodgerson",
+  "flightPrefix": "AD",
+  "countryCode": "BR",
+  "fleet": [
+    "E195",
+    "A320",
+    "ATR72",
+    "A321",
+    "A330200",
+    "A330300",
+    "CESSNA208"
+  ],
+  "fleetCount": [
+    65,
+    55,
+    38,
+    10,
+    5,
+    2,
+    24
+  ],
+  "isCustom": true,
+  "backgroundColor": {
+    "r": 4,
+    "g": 30,
+    "b": 66,
+    "a": 210
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

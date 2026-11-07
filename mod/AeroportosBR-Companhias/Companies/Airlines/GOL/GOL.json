@@ -1,0 +1,38 @@
+{
+  "name": "GOL",
+  "description": "GOL Linhas Aéreas, a companhia laranja do Grupo Abra, 100% Boeing 737 no doméstico.",
+  "customDescription": {
+    "pt-BR": "GOL Linhas Aéreas, a companhia laranja do Grupo Abra, 100% Boeing 737 no doméstico.",
+    "en": "GOL Linhas Aereas, Brazil's orange airline (Abra Group), all Boeing 737 on domestic routes."
+  },
+  "logoPath": "GOL.png",
+  "invLogoPath": "GOL_INV.png",
+  "businessType": 4,
+  "businessClass": 2,
+  "CEOName": "Celso Ferrer",
+  "flightPrefix": "G3",
+  "countryCode": "BR",
+  "fleet": [
+    "B737800",
+    "B737600",
+    "A330200"
+  ],
+  "fleetCount": [
+    130,
+    16,
+    1
+  ],
+  "isCustom": true,
+  "backgroundColor": {
+    "r": 255,
+    "g": 112,
+    "b": 32,
+    "a": 210
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

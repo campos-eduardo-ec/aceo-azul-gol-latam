@@ -1,0 +1,88 @@
+{
+  "aircraftType": "B7879",
+  "liveryFileName": "B7879_LATAM.png",
+  "pixelSize": 154,
+  "liveryComponent": [
+    {
+      "name": "Fuselage1",
+      "layerOrder": 4,
+      "slicePosition": {
+        "x": 13,
+        "y": 690
+      },
+      "sliceSize": {
+        "x": 4032,
+        "y": 678
+      },
+      "position": {
+        "x": 10.81,
+        "y": 0.028,
+        "z": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Fuselage2",
+      "layerOrder": 3,
+      "slicePosition": {
+        "x": 24,
+        "y": 3
+      },
+      "sliceSize": {
+        "x": 3306,
+        "y": 678
+      },
+      "position": {
+        "x": -12.576,
+        "y": 0.028,
+        "z": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Engine1",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 18,
+        "y": 1384
+      },
+      "sliceSize": {
+        "x": 1150,
+        "y": 470
+      },
+      "position": {
+        "x": 5.14,
+        "y": 7.431,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Engine2",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 18,
+        "y": 1384
+      },
+      "sliceSize": {
+        "x": 1150,
+        "y": 470
+      },
+      "position": {
+        "x": 5.14,
+        "y": -7.431,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": 0
+    }
+  ],
+  "isSpecial": false
+}

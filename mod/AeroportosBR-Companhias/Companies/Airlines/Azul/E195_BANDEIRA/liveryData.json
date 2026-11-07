@@ -1,0 +1,123 @@
+{
+  "aircraftType": "E195",
+  "liveryFileName": "E195_AZUL_BANDEIRA.png",
+  "pixelSize": 150,
+  "liveryComponent": [
+    {
+      "name": "Fuselage",
+      "layerOrder": 2,
+      "slicePosition": {
+        "x": 1,
+        "y": 9
+      },
+      "sliceSize": {
+        "x": 4094,
+        "y": 323
+      },
+      "position": {
+        "x": -1.52,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.038674,
+        "y": 1.038674,
+        "z": 1
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Engine1",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 3,
+        "y": 352
+      },
+      "sliceSize": {
+        "x": 461,
+        "y": 246
+      },
+      "position": {
+        "x": 1.676,
+        "y": 3.3,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Engine2",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 3,
+        "y": 352
+      },
+      "sliceSize": {
+        "x": 461,
+        "y": 246
+      },
+      "position": {
+        "x": 1.676,
+        "y": -3.3,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Winglet1",
+      "layerOrder": 2,
+      "slicePosition": {
+        "x": 503,
+        "y": 402
+      },
+      "sliceSize": {
+        "x": 296,
+        "y": 131
+      },
+      "position": {
+        "x": -3.463989,
+        "y": -10.151,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": 0
+    },
+    {
+      "name": "Winglet2",
+      "layerOrder": 2,
+      "slicePosition": {
+        "x": 503,
+        "y": 402
+      },
+      "sliceSize": {
+        "x": 296,
+        "y": 131
+      },
+      "position": {
+        "x": -3.463989,
+        "y": 10.151,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0
+    }
+  ],
+  "isSpecial": true
+}
